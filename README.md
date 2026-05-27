@@ -1,6 +1,7 @@
-📊 **Sales Forecasting Analysis System
-📌 **Project Overview
-****
+📊 Sales Forecasting Analysis System
+
+📌 Project Overview
+
 The Sales Forecasting Analysis System is a data analysis project developed using Python to analyze historical sales data and identify sales trends, store performance, and product performance.
 
 The project uses Exploratory Data Analysis (EDA) techniques and data visualization to help businesses make better decisions related to:
